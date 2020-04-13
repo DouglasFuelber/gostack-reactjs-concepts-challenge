@@ -32,4 +32,4 @@ Para esse desafio temos os seguintes testes:
 
 Projeto baseado no template da [Rocketseat](https://github.com/Rocketseat/gostack-template-conceitos-reactjs)
 
-README baseado no README do desafio da [Rocketseat](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-conceitos-nodejs/README.md)
+README baseado no README do desafio da [Rocketseat](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-conceitos-reactjs/README.md)
